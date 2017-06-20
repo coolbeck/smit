@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+}
+#available .header {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
+#unavailable .header {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
+#available span.actions {
+    float: right;
+}
+
+#unavailable span.actions {
+    float: right;
+}
